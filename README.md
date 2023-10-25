@@ -62,7 +62,7 @@ await webSocketExtension.subscribe(['/restapi/v1.0/account/~/extension/~/telepho
 
 ## call queue call notification
 
-```
+```json
 {
   "uuid": "902644045286934626",
   "event": "/restapi/v1.0/account/809646016/extension/62264425016/telephony/sessions",
